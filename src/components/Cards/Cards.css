@@ -1,0 +1,17 @@
+.score {
+  background: transparent;
+  border-radius: 0.5rem;
+  padding: 0.8rem;
+  font-weight: 600;
+}
+
+.score.green {
+  color: #1fd647;
+}
+
+.score.orange {
+  color: #f5b52b;
+}
+.score.red {
+  color: #fc2c2c;
+}
